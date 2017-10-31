@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DemoBranch
+﻿namespace DemoBranch
 {
-    public class TanjaIsaKhalid
+    internal class TanjaIsaKhalid
     {
-        public static void DoNothing() { }
+        public static void DoNothing()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
