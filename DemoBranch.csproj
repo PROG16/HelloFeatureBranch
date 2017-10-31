@@ -46,6 +46,7 @@
     <Compile Include="AndreChabbePatrik.cs" />
     <Compile Include="DancingStickMan\DanceMan.cs" />
     <Compile Include="Fredrik.cs" />
+    <Compile Include="MATTIASmattiasICEpatric.cs" />
     <Compile Include="JesperAndreas.cs" />
     <Compile Include="Students\Perly.cs" />
     <Compile Include="Program.cs" />
