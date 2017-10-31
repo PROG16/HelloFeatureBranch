@@ -11,6 +11,7 @@ namespace DemoBranch
         static void Main(string[] args)
         {
             Console.WriteLine("Välkommen till Hello World-appen!");
+            AndreChabbePatrik.Write();
             Fredrik.Speak();
             Perly.Speak();
             EsterBergstrom.Speak();
