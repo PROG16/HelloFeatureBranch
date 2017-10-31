@@ -10,7 +10,7 @@ namespace DemoBranch
     {
         public static void Mmip()
         {
-            Console.WriteLine("Hej");
+            Console.WriteLine("Hej!");
         }
     }
 }
