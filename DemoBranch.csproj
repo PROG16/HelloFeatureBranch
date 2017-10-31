@@ -46,6 +46,7 @@
     <Compile Include="Fredrik.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spartans\Klas.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
