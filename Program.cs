@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DemoBranch.DancingStickMan;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,8 @@ namespace DemoBranch
         {
             Console.WriteLine("Välkommen till Hello World appen!");
             Fredrik.Speak();
+            DanceMan.DanceAway(2);
+            Console.ReadKey();
         }
     }
 }
