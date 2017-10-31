@@ -42,7 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Spartans\Daniel.cs" />
+    <Compile Include="Spartans\Erik.cs" />
     <Compile Include="Fredrik.cs" />
+    <Compile Include="Spartans\Klas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
