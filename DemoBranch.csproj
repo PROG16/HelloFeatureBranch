@@ -43,14 +43,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Spartans\Daniel.cs" />
+    <Compile Include="AndreChabbePatrik.cs" />
     <Compile Include="Fredrik.cs" />
+    <Compile Include="JesperAndreas.cs" />
+    <Compile Include="Students\Perly.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Spartans\Erik.cs" />
     <Compile Include="Spartans\Klas.cs" />
+    <Compile Include="Students\EsterBergstrom.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
