@@ -10,8 +10,10 @@ namespace DemoBranch
     {
         static void Main(string[] args)
         {
+            AndreChabbePatrik.Write();
             Console.WriteLine("Välkommen till Hello World appen!");
             Fredrik.Speak();
+            Console.ReadLine();
         }
     }
 }
