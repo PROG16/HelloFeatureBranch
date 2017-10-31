@@ -7,7 +7,8 @@ namespace DemoBranch
         static void Main(string[] args)
         {
             Console.WriteLine("Välkommen till Hello World-appen!");
-            
+            Cornelia.Speak();
+            Maria.Yell();
             Console.ReadLine();
         }
     }
