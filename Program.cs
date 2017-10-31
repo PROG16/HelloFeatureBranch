@@ -10,6 +10,7 @@ namespace DemoBranch
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Välkommen till Hello World appen!");
             Fredrik.Speak();
         }
     }
