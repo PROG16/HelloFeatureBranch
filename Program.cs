@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DemoBranch.Spartans;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,11 @@ namespace DemoBranch
         {
             Console.WriteLine("Välkommen till Hello World appen!");
             Fredrik.Speak();
+
+            var dannysSingleton = Daniel.Instance;
+            dannysSingleton.MakeTheSound();
+
+            Console.ReadLine();
         }
     }
 }

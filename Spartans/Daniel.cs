@@ -2,12 +2,12 @@
 
 namespace DemoBranch.Spartans
 {
-    public sealed class DannyBoy
+    public sealed class Daniel
     {
-        private static DannyBoy instance = null;
+        private static Daniel instance = null;
         private static readonly object padLock = new object();
 
-        public static DannyBoy Instance
+        public static Daniel Instance
         {
             get
             {
@@ -15,7 +15,7 @@ namespace DemoBranch.Spartans
                 {
                     if (instance == null)
                     {
-                        instance = new DannyBoy();
+                        instance = new Daniel();
                     }
                     return instance;
                 }
